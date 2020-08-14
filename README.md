@@ -1,4 +1,5 @@
 # Привет 👋
+
 <br/>
 
 ## Немного обо мне:
@@ -6,6 +7,7 @@
 - 👨🏻‍💻 много программирую и учусь новому
 - 🚴🏻 занимаюсь велоспортом
 - 🤳🏻 люблю фотографировать
+
 <br/>
 
 ## Языки, технологии и инструменты:
@@ -16,12 +18,14 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="26px" src="https://base22.com/wp-content/img-import/body/blogs/modern-web-development_2.png" />
+<img align="left" alt="GitHub" width="26px" src="https://img.pngio.com/django-server-integration-wysiwyg-html-editor-froala-django-png-2048_1024.png" />
+
 <br/>
 
 ## Где меня найти:
 - [ВКонтакте](https://vk.com/vladzhuravlov)
 - [instagram](https://www.instagram.com/____horizon____/)
 
-<br/>
 <br/>
  

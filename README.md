@@ -1,3 +1,5 @@
+<img align="left" alt="Cool gif" width="100%" src="https://i.gifer.com/UqL8.gif" />
+
 ## Привет 👋
 <br/>
 

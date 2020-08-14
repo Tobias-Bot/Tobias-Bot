@@ -13,8 +13,10 @@
 <img align="left" alt="Visual Studio" width="30px" src="https://www.cleoag.ch/wp-content/uploads/2019/07/Logo-Colored-25.png" />
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="C++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/250px-ISO_C%2B%2B_Logo.svg.png" />
 <img align="left" alt="C#" width="30px" src="https://static.tildacdn.com/tild3839-3664-4462-b261-613338626464/c-sharp.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="CUDA" width="30px" src="https://i.ytimg.com/vi/XCqFS8PrPpI/sddefault.jpg" />
 <img align="left" alt="Vue" width="30px" src="https://base22.com/wp-content/img-import/body/blogs/modern-web-development_2.png" />
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Django" width="30px" src="https://pbs.twimg.com/profile_images/752207108750340096/CicamXxN_400x400.jpg" />

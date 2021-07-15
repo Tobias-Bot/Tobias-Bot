@@ -27,6 +27,7 @@
 <br/>
 
 ### Где меня найти:
+- [LinkedIn](https://www.linkedin.cn/in/vladislav-zhuravlev-84b819217)
 - [ВКонтакте](https://vk.com/vladzhuravlov)
 - [instagram](https://www.instagram.com/____horizon____/)
 - email: aaskmmay@gmail.com

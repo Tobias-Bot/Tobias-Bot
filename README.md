@@ -1,18 +1,18 @@
-## Привет 👋
+## 👋
 <br/>
 
 ### Немного обо мне:
-- 👨🏻‍🎓 учусь в ИГЭУ имени В. И. Ленина
+- 👨🏻‍🎓 закончил ИГЭУ имени В. И. Ленина
 - 👨🏻‍💻 много программирую и учусь новому
 - 🚴🏻 занимаюсь велоспортом
 - 🤳🏻 люблю фотографировать
 <br/>
 
 ### Языки, технологии и инструменты:
-<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Visual Studio" width="30px" src="https://www.cleoag.ch/wp-content/uploads/2019/07/Logo-Colored-25.png" />
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Visual Studio Code" width="30px" src="https://stickerzone.shop/wp-content/uploads/2018/05/Visual-Studio-1.png" />
+<img align="left" alt="Visual Studio" width="30px" src="https://rmdigitaldesign.eu/img/microsoft.svg" />
+<img align="left" alt="HTML5" width="30px" src="https://badgelist.s3.amazonaws.com/u/badge/5aa15fed262ea80004f1234c/custom_image/badge.png" />
+<img align="left" alt="CSS3" width="30px" src="https://porsan.ir/contents/tags/images/hd8tb1yfvopk9e6b64.jpg" />
 <img align="left" alt="C++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/250px-ISO_C%2B%2B_Logo.svg.png" />
 <img align="left" alt="C#" width="30px" src="https://static.tildacdn.com/tild3839-3664-4462-b261-613338626464/c-sharp.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />

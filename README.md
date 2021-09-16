@@ -1,13 +1,6 @@
 ## 👋
 <br/>
 
-### Немного обо мне:
-- закончил ИГЭУ имени В. И. Ленина
-- много программирую и учусь новому
-- занимаюсь велоспортом
-- люблю фотографировать
-<br/>
-
 ### Языки, технологии и инструменты:
 <img align="left" alt="Visual Studio Code" width="30px" src="https://stickerzone.shop/wp-content/uploads/2018/05/Visual-Studio-1.png" />
 <img align="left" alt="Visual Studio" width="30px" src="https://rmdigitaldesign.eu/img/microsoft.svg" />
